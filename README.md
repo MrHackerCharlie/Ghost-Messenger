@@ -1,5 +1,6 @@
 # 👻 Ghost Messenger: The P2P Onion Protocol
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Security: AES--256--GCM](https://img.shields.io/badge/Security-AES--256--GCM-green.svg)
 ![Network: Tor--Project](https://img.shields.io/badge/Network-Tor--Project-purple.svg)
