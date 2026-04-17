@@ -1,7 +1,8 @@
 # Ghost Messenger: The P2P Onion Protocol
 
 
-[![Watch the video](https://youtu.be/b7GJvDnKEZQ?si=3cWhio0OC-mXCL8K)](https://youtu.be/b7GJvDnKEZQ?si=3cWhio0OC-mXCL8K)
+[![Watch the video](https://youtube.com)](https://youtu.be/b7GJvDnKEZQ)
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)
